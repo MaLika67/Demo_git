@@ -11,4 +11,4 @@ select * from table2;
 
 
 select * from anytable;
--- test conflict
+-- test conflict cok
