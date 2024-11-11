@@ -11,3 +11,5 @@ select * from table2;
 
 
 select * from anytable;
+select * drom anytable_2;
+select * from anytable;
