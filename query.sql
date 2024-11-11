@@ -7,3 +7,7 @@ from ma_table;
 select * from table2; 
 
 select * from table2;
+
+
+
+select * from anytable;
