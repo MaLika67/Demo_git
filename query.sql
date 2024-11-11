@@ -11,5 +11,9 @@ select * from table2;
 
 
 select * from anytable;
+
+-- test
+
 select * drom anytable_2;
 select * from anytable;
+
