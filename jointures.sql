@@ -26,4 +26,4 @@ on table1.id= table2.id;
 select * 
 from table1
 Inner join table2
-on table1.id= table2.id;
+on table1.id= table2.id;dfxdhch
