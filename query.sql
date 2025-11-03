@@ -19,3 +19,7 @@ select * from anytable;
 select * from table2128;
 select * from table;
 
+select *
+
+FROM table2
+
