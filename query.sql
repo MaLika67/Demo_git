@@ -16,5 +16,6 @@ select * from anytable;
 
 select * drom anytable_2;
 select * from anytable;
+select * from table2128;
 select * from table;
 
