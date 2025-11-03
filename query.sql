@@ -22,5 +22,6 @@ select * frome table12
 
 select *
 
-FROM table2
+
+FROM table
 
