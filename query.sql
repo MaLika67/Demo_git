@@ -21,5 +21,6 @@ select * from table;
 
 select *
 
-FROM table2
+
+FROM table
 
