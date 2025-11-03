@@ -20,3 +20,7 @@ select * from table2128;
 select * from table;
 select * frome table12
 
+select *
+
+FROM table2
+
